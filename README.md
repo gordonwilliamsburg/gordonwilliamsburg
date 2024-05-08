@@ -1,5 +1,5 @@
-🌟 As a polymath, I'm passionate about philosophy, technology, art, and mathematics. 
-Grew up wanting to become an artist.
+🌟 As a polymath, I'm obsessed with philosophy, technology, art, and mathematics. 
+Grew up practicing art.
 Went to engineering and mathematics. 
 Held some art exhibitions in the past then started fashion design on the side. 
 Worked as a Lead Data Scientist solving the most challenging problems in the industry: Vehicle routing, dynamic pricing, disease modelling, digital sensing. 
