@@ -32,4 +32,4 @@ Now full circle back to design and bringing the next generation of fashion to th
 - Entrepreneur First x Mistral x Hugging Face 2024 Paris 🥈
 
 **Beliefs**:
-Anarchy and constructive absurdism.
+Anarchy and constructive absurdism 🏴.
