@@ -12,7 +12,7 @@ Worked as a Lead Data Scientist solving the most challenging problems in the ind
 
 Started and led the MLOps team in the company. 
 
-Now full circle back to design and bringing the next generation of fashion to the world 🌍.
+Now full circle back to design and reinventing fashion.
 
 **Academic Background**:
 
