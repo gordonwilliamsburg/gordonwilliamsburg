@@ -1,4 +1,5 @@
 **Introduction**
+
 As a polymath, I'm obsessed with philosophy, technology, art, and mathematics. 
 
 Grew up practicing art.
