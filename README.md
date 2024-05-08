@@ -11,7 +11,6 @@ Now full circle back to design and bringing the next generation of fashion to th
 - B.Sc Computer Engineering 🎓:
 	- Procedural, Functional, and Object-Oriented Programming: C, C++, Python, Haskell.
 	- Electrical and Mechanical Engineering.
-	- Optimization.
 	- Machine Learning theory.
 	- **Thesis**: Deep Learning architectures for NLP and sentiment Recognition.
 - M.Sc Mathematics 📚:
