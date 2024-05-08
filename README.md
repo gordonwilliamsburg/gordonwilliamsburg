@@ -4,7 +4,7 @@ Went to engineering and mathematics.
 Held some art exhibitions in the past then started fashion design on the side. 
 Worked as a Lead Data Scientist solving the most challenging problems in the industry: Vehicle routing, dynamic pricing, disease modelling, digital sensing. 
 Started and led the MLOps team in the company. 
-Now full circle back to design and bringing the next generation of fashion design and production to the world 🌍.
+Now full circle back to design and bringing the next generation of fashion to the world 🌍.
 
 **Academic Background**:
 
@@ -25,8 +25,11 @@ Now full circle back to design and bringing the next generation of fashion desig
 - Self-healing code from library documentation 🧬.
 - Code Aesthetics: Generating digital sculptures from code repositories 🖼️.
 
-Hackathons:
+**Hackathons**:
 - MLOps Community x Weaviate 2023 Berlin 🥉
 - Google x Kühne+Nagel 2023 Hamburg 🥇
 - Malaria Hackathon 2024 Hamburg 🥇
 - Entrepreneur First x Mistral x Hugging Face 2024 Paris 🥈
+
+**Beliefs**:
+Anarchy and constructive absurdism.
