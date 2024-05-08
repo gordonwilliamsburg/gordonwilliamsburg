@@ -22,8 +22,8 @@ Now full circle back to design and bringing the next generation of fashion to th
 
 **Personal Projects**:
 
-- (Self-healing code from library documentation)[https://github.com/gordonwilliamsburg/codinit] 🧬.
-- Code Aesthetics: Generating digital sculptures from code repositories 🖼️.
+- [Self-healing code from library documentation](https://github.com/gordonwilliamsburg/codinit) 🧬.
+- [Code Aesthetics: Generating digital sculptures from code repositories](https://code-experiments.vercel.app) 🖼️.
 
 **Hackathons**:
 - MLOps Community x Weaviate 2023 Berlin 🥉
