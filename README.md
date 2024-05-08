@@ -1,9 +1,16 @@
-🌟 As a polymath, I'm obsessed with philosophy, technology, art, and mathematics. 
+**Introduction**
+As a polymath, I'm obsessed with philosophy, technology, art, and mathematics. 
+
 Grew up practicing art.
-Went to engineering and mathematics. 
+
+Studied engineering and mathematics. 
+
 Held some art exhibitions in the past then started fashion design on the side. 
+
 Worked as a Lead Data Scientist solving the most challenging problems in the industry: Vehicle routing, dynamic pricing, disease modelling, digital sensing. 
+
 Started and led the MLOps team in the company. 
+
 Now full circle back to design and bringing the next generation of fashion to the world 🌍.
 
 **Academic Background**:
