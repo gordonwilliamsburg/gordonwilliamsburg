@@ -1,6 +1,6 @@
 **Introduction**
 
-As a polymath, I'm obsessed with philosophy, technology, art, and mathematics. 
+Polymath: obsessed with philosophy, technology, art, and mathematics. 
 
 Grew up practicing art.
 
@@ -12,7 +12,7 @@ Worked as a Lead Data Scientist solving the most challenging problems in the ind
 
 Started and led the MLOps team in the company. 
 
-Now full circle back to design and reinventing fashion.
+Now full circle back to design.
 
 **Academic Background**:
 
