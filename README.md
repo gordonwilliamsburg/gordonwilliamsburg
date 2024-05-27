@@ -2,18 +2,6 @@
 
 Polymath: obsessed with philosophy, technology, art, and mathematics. 
 
-Grew up practicing art.
-
-Studied engineering and mathematics. 
-
-Held some art exhibitions in the past then started fashion design on the side. 
-
-Worked as a Lead Data Scientist solving the most challenging problems in the industry: Vehicle routing, dynamic pricing, disease modelling, digital sensing. 
-
-Started and led the MLOps team in the company. 
-
-Now full circle back to design.
-
 **Academic Background**:
 
 - B.Sc Computer Engineering 🎓:
